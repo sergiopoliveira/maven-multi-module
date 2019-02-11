@@ -7,12 +7,22 @@
         <groupId>oliveira.sergio</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>from-intellij</artifactId>
+    <artifactId>web-app</artifactId>
 
-    <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>oliveira.sergio</groupId>
+            <artifactId>jpa-entities</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
+        <dependency>
+            <groupId>oliveira.sergio</groupId>
+            <artifactId>web-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
