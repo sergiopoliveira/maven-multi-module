@@ -6,7 +6,7 @@ import guru.springframework.domain.UserCommand;
 /*
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2019-02-12T22:05:07+0000",
+    date = "2019-02-13T21:30:26+0000",
     comments = "version: 1.2.0.Final, compiler: javac, environment: Java 11.0.1 (Oracle Corporation)"
 )
 */
